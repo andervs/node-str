@@ -1,2 +1,2 @@
 # node-str
-Node API (cusro balta.io)
+Node API (curso balta.io)
